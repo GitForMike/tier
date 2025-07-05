@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://gitformike.github.io/tier
+Host: https://tier.hndblog.com
 
 # Sitemaps
-Sitemap: https://gitformike.github.io/tier/sitemap.xml
+Sitemap: https://tier.hndblog.com/sitemap.xml
