@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://tier.hndblog.com
+Host: https://mike.hndblog.com/tier
 
 # Sitemaps
-Sitemap: https://tier.hndblog.com/sitemap.xml
+Sitemap: https://mike.hndblog.com/tier/sitemap.xml
