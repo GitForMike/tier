@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002Ftierlist\u002F[game]","\u002Ftierlist2\u002F[slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
